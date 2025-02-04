@@ -1,0 +1,42 @@
+[
+  {
+    "path": "notepad.exe",
+    "name": "Notepad",
+    "icon": "https://img.icons8.com/color/256/notepad.png"
+  },
+  {
+    "path": "calc.exe",
+    "name": "Calculator",
+    "icon": "https://img.icons8.com/color/256/calculator.png"
+  },
+  {
+    "path": "mspaint.exe",
+    "name": "Paint",
+    "icon": "https://img.icons8.com/color/256/paint.png"
+  },
+  {
+    "path": "cmd.exe",
+    "name": "Command Prompt",
+    "icon": "https://img.icons8.com/color/256/command-line.png"
+  },
+  {
+    "path": "powershell.exe",
+    "name": "PowerShell",
+    "icon": "https://img.icons8.com/color/256/powershell.png"
+  },
+  {
+    "path": "chrome.exe",
+    "name": "Google Chrome",
+    "icon": "https://img.icons8.com/color/256/chrome.png"
+  },
+  {
+    "path": "code.exe",
+    "name": "Visual Studio Code",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
+  },
+  {
+    "name": "Edge",
+    "path": "msedge.exe",
+    "icon": "https://img.icons8.com/color/256/microsoft-edge.png"
+  }
+]
